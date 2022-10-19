@@ -1,0 +1,15 @@
+.navbar a{
+    color: #fff;
+    font-size: 22px;
+    text-decoration: none;
+    margin-left: 20px;  
+}
+.navbar_wrap{
+    display: flex;
+    height: 80px;
+    align-items: center;
+    justify-content: space-between;
+    color: #fff;
+    background: #00000028;
+    padding: 0 30px;
+}

@@ -1,0 +1,50 @@
+[{
+    "img": "https://cdn.pixabay.com/photo/2020/10/18/09/16/bedroom-5664221_960_720.jpg",
+    "title": "Vip Suite",
+    "text": "Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien.",
+    "bed": 1,
+    "person": 2,
+    "amount": 250,
+    "id": 1
+  }, {
+    "img": "https://cdn.pixabay.com/photo/2021/08/27/01/33/bedroom-6577523_960_720.jpg",
+    "title": "single family",
+    "text": "Morbi non quam nec dui luctus rutrum. Nulla tellus. In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus. Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.",
+    "bed": 1,
+    "person": 3,
+    "amount": 200,
+    "id": 2
+  }, {
+    "img": "https://cdn.pixabay.com/photo/2016/06/10/01/05/hotel-room-1447201_960_720.jpg",
+    "title": "vip suite",
+    "text": "Morbi non quam nec dui luctus rutrum. Nulla tellus. In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus. Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.",
+    "bed": 1,
+    "person": 2,
+    "amount": 290,
+    "id": 3
+  }, {
+    "img": "https://cdn.pixabay.com/photo/2017/01/14/12/48/hotel-1979406_960_720.jpg",
+    "title": "Family swite",
+    "text": "Morbi non quam nec dui luctus rutrum. Nulla tellus. In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus. Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.",
+    "bed": 2,
+    "person": 6,
+    "amount": 200,
+    "id": 4
+  }, {
+    "img": "https://cdn.pixabay.com/photo/2015/01/10/11/39/hotel-595121_960_720.jpg",
+    "title": "Single Suite",
+    "text": "Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum. Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",
+    "bed": 1,
+    "person": 2,
+    "amount": 140,
+    "id": 5
+  }, {
+    "img": "https://cdn.pixabay.com/photo/2016/09/18/03/28/travel-1677347_960_720.jpg",
+    "title": "family normal",
+    "text": "Morbi non quam nec dui luctus rutrum. Nulla tellus. In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus. Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.",
+    "bed": 2,
+    "person": 6,
+    "amount": 180,
+    "id": 6
+  }]
+  

@@ -1,0 +1,10 @@
+.header_bg{
+    background-image: url('https://cdn.pixabay.com/photo/2016/11/18/22/21/restaurant-1837150_960_720.jpg');
+    height: 45vh;
+    width: 100%;
+}
+.header_bg h2{
+    text-align: center;
+    color: #fff;
+    line-height: 100px;
+}
